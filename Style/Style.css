@@ -1,0 +1,57 @@
+/* stan sie najlepsza wersja siebie */
+body {
+  font-family: 'Arial', sans-serif;
+  background: #fffff;
+  margin: 0;
+  padding: 0;
+  color: #ffbff0;
+}
+
+/*  ˚୨୧⋆｡˚ ⋆🤍𝒲𝑜𝑛𝑦𝑜𝑢𝑛𝑔𝑖𝑠𝑚🎀༉‧₊˚. */
+header {
+  background-color: #ffffff;
+  padding: 20 px;
+  text-align: center;
+  box-shadow: 0 4 px 10 px rgba (0,0,0,0.1);
+}
+
+header h1 {
+  font-size: 26 px;
+  color: #ffbff0;
+  margin: 0;
+  text-shadow: 1 px 1 px 2 px rgba (0,0,0,0.1);
+}
+
+nav {
+  margin-top: 10 px;
+}
+
+nav a {
+  margin: 0 15 px;
+  text-decoration: none;
+  color: #ffbff0;
+  font-weight: bold;
+}
+
+nav a:hover {
+  border-bottom: 2 px solid #ffbff0;
+}
+
+/* more  */
+section {
+  background: #ffffff;
+  border: 1 px solid #e578ce;
+  border-radius: 15 px;
+  padding: 20 px;
+  margin: 20 px;
+  box-shadow: 0 3 px 8 px rgba (0,0,0,0.05);
+}
+
+section h2 {
+  font-size: 22 px;
+  color: #ffbff0;
+  margin-bottom: 10 px;
+  border-bottom: 2 px solid #e587ce;
+  padding-bottom: 5 px;
+}
+
